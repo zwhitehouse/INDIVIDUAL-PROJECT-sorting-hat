@@ -55,3 +55,23 @@ Think of a way you can expel students without just hiding those divs on the page
 - House Colors: The color of the student's card changes depending on which house they were sorted.
 - Card Sorting/Ordering: Sort the student cards by some criteria (i.e. alphabetically by name, by house)
 
+
+
+
+
+
+TODO: Create setup branch with main files
+TODO: Use bootstrap to find card
+
+
+
+TODO: DO NOT WORRY ABOUT STYLING YET
+TODO: Use function to start the sorting process when initial button is clicked 
+TODO: DO NOT SHOW FORM ON DOM UNTIL BUTTON IS CLICKED (event listener)
+TODO: Use bootstrap form to create space to fill in students name and a button to start sorting process (event listener)
+TODO: Once clicked, the button on the form will randomly pick 1 of the 4 houses to put the student into
+TODO: FIND A WAY TO RANDOMIZE THE SELECTION OF SCHOOL FOR EACH STUDENT ENTERED INTO THE FORM!
+TODO: After the sorting button is clicked, the form will need to clear
+TODO: FIND A WAY TO CLEAR THE FORM WHEN THE SORTING BUTTON IS CLICKED
+TODO: Display a BOOTSTRAP card with students name and randomized house selection BELOW THE FORM
+TODO: Make sure the card printed below the form has an 'expel' button which should remove their card from the students list and move them to MOLDY VOLDYS ARMY
