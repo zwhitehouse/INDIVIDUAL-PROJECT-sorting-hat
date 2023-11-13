@@ -25,48 +25,14 @@
   height: 100vh;
 }
 
-.form-label {
-  display: flex;
-  justify-content: center;
-  font-weight: bolder;
+
+
+/* Style for the cards-container (active students) */
+#cards-container {
+  flex: 1;
 }
 
-#sortButton2 {
-  display: flex;
-  justify-content: center;
-}
-
-table {
-  font-family: Arial, sans-serif;
-  border-collapse: collapse;
-  width: 50%;
-  margin-bottom: 20px;
-}
-
-table th, table td {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-table tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-table th {
-  background-color: #4CAF50;
-  color: white;
-}
-
-h2 {
-  margin-top: 20px;
-}
-
-button {
-  padding: 5px 10px;
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  cursor: pointer;
-  border-radius: 4px;
+#army-container {
+  width: 300px;
+  margin-left: auto; 
 }
