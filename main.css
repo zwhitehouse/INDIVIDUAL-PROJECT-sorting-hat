@@ -1,0 +1,38 @@
+/* .card {
+  width: 1250px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+} */
+
+
+.card-img-top {
+  height: 300px;
+  border: 5px solid black;
+}
+
+.card-body {
+  border: 5px solid black;
+  text-align: center;
+}
+
+.container-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+
+/* Style for the cards-container (active students) */
+#cards-container {
+  flex: 1;
+}
+
+#army-container {
+  width: 300px;
+  margin-left: auto; 
+}
